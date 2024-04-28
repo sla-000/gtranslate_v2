@@ -1,6 +1,6 @@
 name: gtranslate_v2
 description: Yet another simple implementation of a Google Translation API v2 (with API key auth)
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/sla-000/gtranslate_v2
 topics:
   - google
